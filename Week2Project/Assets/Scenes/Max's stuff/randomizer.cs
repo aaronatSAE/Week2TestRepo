@@ -7,7 +7,7 @@ public class randomizer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.LogWarning("Hey - this is Max's script. Get out! (Also, Hello world!)");
     }
 
     // Update is called once per frame
